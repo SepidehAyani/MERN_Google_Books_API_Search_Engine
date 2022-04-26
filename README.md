@@ -23,7 +23,7 @@ So that they can keep a list of books to purchase.
 [Repo Link](https://github.com/SepidehAyani/MERN_Google_Books_API_Search_Engine) <br>
 
 ## Screenshot
-[![Book Search](images/BookSearchDemo.png)]
+![Book Search](images/BookSearchDemo.png)
 
 ## Demo
 ![Deployed App]()
